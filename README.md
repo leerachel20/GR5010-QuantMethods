@@ -1,8 +1,15 @@
 # GR5010-QuantMethods
 
+* Week 03 Recitation
+  - A brief review of random variables and distributions (and notation)
+  - A brief review of conditional probabilities (and notation)
+  - A brief review of expectations (notation)
+
 * Week 04 Recitation
   - Simpson's paradox
   - Causal Inference
+  - Neyman-Rubin model
+  - Difference between potential outcomes and observed outcomes (and notation)
 
 * Week 05 Recitation
   - Lord's paradox
