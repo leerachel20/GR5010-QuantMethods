@@ -1,5 +1,7 @@
 # GR5010-QuantMethods
 
+## AGENDA
+
 * Week 01 Recitation
   - Overview of Bayesian inference
   - Falsifiability
