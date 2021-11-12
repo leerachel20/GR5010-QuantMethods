@@ -13,6 +13,7 @@
 
 * Week 03 Recitation
   - Causal mechanism
+  - Mediator/Morderator
 
 * Week 04 Recitation
   - Simpson's paradox
