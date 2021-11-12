@@ -37,7 +37,7 @@
     - Plausible values
     - Value added scores
  
-* Week 08 Recitation
+* Week 08 Recitation: we only covered probability sampling types
   - Complex survey designs
     - Probability sampling
       - Random
