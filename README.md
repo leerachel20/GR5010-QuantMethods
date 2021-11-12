@@ -30,13 +30,27 @@
   - Construct validity
   - External validity
   
-* Week 08 Recitation
+* Week 07 Recitation
   - Case study Kraft 2015
     - Quasi-experiment
     - Differential effects
     - Plausible values
     - Value added scores
  
+* Week 08 Recitation
+  - Complex survey designs
+    - Probability sampling
+      - Random
+      - Systematic
+      - Stratified
+      - Cluster
+    - Non-probability sampling
+      - Convenience
+      - Snowball
+    - Other
+      - Census study: whole population research
+      - Qualitative research: purposive sampling
+
 * Week 09 Recitation
   - one-way between-subject
   
