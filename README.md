@@ -52,7 +52,8 @@
       - Qualitative research: purposive sampling
 
 * Week 09 Recitation
-  - one-way between-subject
+  - one-way between-subject (using anova() function)
   
-* Week 09 Recitation
-  - more ANOVA examples
+* Week 19 Recitation
+  - more ANOVA examples (using aov() function)
+  - F stat calculation
