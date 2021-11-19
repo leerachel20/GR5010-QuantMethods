@@ -54,6 +54,6 @@
 * Week 09 Recitation
   - one-way between-subject (using anova() function)
   
-* Week 19 Recitation
+* Week 10 Recitation
   - more ANOVA examples (using aov() function)
   - F stat calculation
