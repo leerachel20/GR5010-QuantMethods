@@ -6,12 +6,12 @@
   - Overview of Bayesian inference
   - Falsifiability
 
-* Week 02 Recitation
+* ## Week 02 Recitation
   - A brief review of random variables and distributions (and notation)
   - A brief review of conditional probabilities (and notation)
   - A brief review of expectations (notation)
 
-* Week 03 Recitation
+* ## Week 03 Recitation
   - Causal mechanism
   - Mediator/Morderator
 
