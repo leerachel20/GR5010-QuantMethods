@@ -30,7 +30,7 @@
   - Construct validity
   - External validity
   
-* ## eek 07 Recitation
+* ## Week 07 Recitation
   - Case study Kraft 2015
     - Quasi-experiment
     - Differential effects
