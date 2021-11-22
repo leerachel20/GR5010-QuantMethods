@@ -2,7 +2,7 @@
 
 ## AGENDA
 
-* # Week 01 Recitation
+* ## Week 01 Recitation
   - Overview of Bayesian inference
   - Falsifiability
 
