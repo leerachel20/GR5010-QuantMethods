@@ -15,29 +15,29 @@
   - Causal mechanism
   - Mediator/Morderator
 
-* Week 04 Recitation
+* ## Week 04 Recitation
   - Simpson's paradox
   - Causal Inference
   - Neyman-Rubin model
   - Difference between potential outcomes and observed outcomes (and notation)
 
-* Week 05 Recitation
+* ## Week 05 Recitation
   - Lord's paradox
   - Statistical conclusion validity
   - Internal validity
  
-* Week 06 Recitation
+* ## Week 06 Recitation
   - Construct validity
   - External validity
   
-* Week 07 Recitation
+* ## eek 07 Recitation
   - Case study Kraft 2015
     - Quasi-experiment
     - Differential effects
     - Plausible values
     - Value added scores
  
-* Week 08 Recitation: we only covered probability sampling types
+* ## Week 08 Recitation: we only covered probability sampling types
   - Complex survey designs
     - Probability sampling
       - Random
@@ -51,9 +51,9 @@
       - Census study: whole population research
       - Qualitative research: purposive sampling
 
-* Week 09 Recitation
+* ## Week 09 Recitation
   - one-way between-subject (using anova() function)
   
-* Week 10 Recitation
+* ## Week 10 Recitation
   - more ANOVA examples (using aov() function)
   - F stat calculation
